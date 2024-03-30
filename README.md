@@ -1,2 +1,2 @@
 # game_jam_snippets
-Snipets shared with game jam partener
+Snipets for 42 Lisboa Game Jam: #00
